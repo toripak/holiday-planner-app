@@ -1,0 +1,23 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "startDate": "2022-12-25",
+    "endDate": "2022-12-26",
+    "status": "Approved"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "startDate": "2023-01-01",
+    "endDate": "2023-01-02",
+    "status": "Pending"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "startDate": "2023-04-15",
+    "endDate": "2023-04-16",
+    "status": "Rejected"
+  }
+]
